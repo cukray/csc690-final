@@ -12,6 +12,20 @@
 		A851747021C3017D00D93EA3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A851746E21C3017D00D93EA3 /* Main.storyboard */; };
 		A851747221C3017E00D93EA3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A851747121C3017E00D93EA3 /* Assets.xcassets */; };
 		A851747521C3017E00D93EA3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A851747321C3017E00D93EA3 /* LaunchScreen.storyboard */; };
+		A851748421C302B900D93EA3 /* wateringcan.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A851747D21C302B900D93EA3 /* wateringcan.usdz */; };
+		A851748521C302B900D93EA3 /* teapot.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A851747E21C302B900D93EA3 /* teapot.usdz */; };
+		A851748621C302B900D93EA3 /* gramophone.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A851747F21C302B900D93EA3 /* gramophone.usdz */; };
+		A851748721C302B900D93EA3 /* cupandsaucer.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A851748021C302B900D93EA3 /* cupandsaucer.usdz */; };
+		A851748821C302B900D93EA3 /* redchair.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A851748121C302B900D93EA3 /* redchair.usdz */; };
+		A851748921C302B900D93EA3 /* tulip.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A851748221C302B900D93EA3 /* tulip.usdz */; };
+		A851748A21C302B900D93EA3 /* plantpot.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A851748321C302B900D93EA3 /* plantpot.usdz */; };
+		A851748C21C3117600D93EA3 /* cellClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = A851748B21C3117600D93EA3 /* cellClass.swift */; };
+		A851748E21C3338600D93EA3 /* wheelbarrow.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A851748D21C3338600D93EA3 /* wheelbarrow.usdz */; };
+		A851749021C3364B00D93EA3 /* iphone7.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A851748F21C3364B00D93EA3 /* iphone7.usdz */; };
+		A851749421C3384C00D93EA3 /* retrotv.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A851749121C3384B00D93EA3 /* retrotv.usdz */; };
+		A851749521C3384C00D93EA3 /* stratocaster.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A851749221C3384B00D93EA3 /* stratocaster.usdz */; };
+		A851749621C3384C00D93EA3 /* trowel.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A851749321C3384C00D93EA3 /* trowel.usdz */; };
+		A851749821C340D600D93EA3 /* SceneKit Scene.scn in Resources */ = {isa = PBXBuildFile; fileRef = A851749721C340D600D93EA3 /* SceneKit Scene.scn */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +36,20 @@
 		A851747121C3017E00D93EA3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A851747421C3017E00D93EA3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A851747621C3017E00D93EA3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A851747D21C302B900D93EA3 /* wateringcan.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = wateringcan.usdz; sourceTree = "<group>"; };
+		A851747E21C302B900D93EA3 /* teapot.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = teapot.usdz; sourceTree = "<group>"; };
+		A851747F21C302B900D93EA3 /* gramophone.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = gramophone.usdz; sourceTree = "<group>"; };
+		A851748021C302B900D93EA3 /* cupandsaucer.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = cupandsaucer.usdz; sourceTree = "<group>"; };
+		A851748121C302B900D93EA3 /* redchair.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = redchair.usdz; sourceTree = "<group>"; };
+		A851748221C302B900D93EA3 /* tulip.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = tulip.usdz; sourceTree = "<group>"; };
+		A851748321C302B900D93EA3 /* plantpot.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = plantpot.usdz; sourceTree = "<group>"; };
+		A851748B21C3117600D93EA3 /* cellClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cellClass.swift; sourceTree = "<group>"; };
+		A851748D21C3338600D93EA3 /* wheelbarrow.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = wheelbarrow.usdz; sourceTree = "<group>"; };
+		A851748F21C3364B00D93EA3 /* iphone7.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = iphone7.usdz; sourceTree = "<group>"; };
+		A851749121C3384B00D93EA3 /* retrotv.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = retrotv.usdz; sourceTree = "<group>"; };
+		A851749221C3384B00D93EA3 /* stratocaster.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = stratocaster.usdz; sourceTree = "<group>"; };
+		A851749321C3384C00D93EA3 /* trowel.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = trowel.usdz; sourceTree = "<group>"; };
+		A851749721C340D600D93EA3 /* SceneKit Scene.scn */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; path = "SceneKit Scene.scn"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,14 +82,36 @@
 		A851746921C3017D00D93EA3 /* AR Decor */ = {
 			isa = PBXGroup;
 			children = (
+				A851747C21C302B900D93EA3 /* Models */,
 				A851746A21C3017D00D93EA3 /* AppDelegate.swift */,
 				A851746C21C3017D00D93EA3 /* ViewController.swift */,
 				A851746E21C3017D00D93EA3 /* Main.storyboard */,
+				A851748B21C3117600D93EA3 /* cellClass.swift */,
 				A851747121C3017E00D93EA3 /* Assets.xcassets */,
+				A851749721C340D600D93EA3 /* SceneKit Scene.scn */,
 				A851747321C3017E00D93EA3 /* LaunchScreen.storyboard */,
 				A851747621C3017E00D93EA3 /* Info.plist */,
 			);
 			path = "AR Decor";
+			sourceTree = "<group>";
+		};
+		A851747C21C302B900D93EA3 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				A851747D21C302B900D93EA3 /* wateringcan.usdz */,
+				A851747E21C302B900D93EA3 /* teapot.usdz */,
+				A851747F21C302B900D93EA3 /* gramophone.usdz */,
+				A851748021C302B900D93EA3 /* cupandsaucer.usdz */,
+				A851748121C302B900D93EA3 /* redchair.usdz */,
+				A851748221C302B900D93EA3 /* tulip.usdz */,
+				A851748321C302B900D93EA3 /* plantpot.usdz */,
+				A851748D21C3338600D93EA3 /* wheelbarrow.usdz */,
+				A851748F21C3364B00D93EA3 /* iphone7.usdz */,
+				A851749121C3384B00D93EA3 /* retrotv.usdz */,
+				A851749221C3384B00D93EA3 /* stratocaster.usdz */,
+				A851749321C3384C00D93EA3 /* trowel.usdz */,
+			);
+			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -122,9 +172,22 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A851748E21C3338600D93EA3 /* wheelbarrow.usdz in Resources */,
 				A851747521C3017E00D93EA3 /* LaunchScreen.storyboard in Resources */,
+				A851749421C3384C00D93EA3 /* retrotv.usdz in Resources */,
+				A851748621C302B900D93EA3 /* gramophone.usdz in Resources */,
 				A851747221C3017E00D93EA3 /* Assets.xcassets in Resources */,
+				A851748A21C302B900D93EA3 /* plantpot.usdz in Resources */,
+				A851749521C3384C00D93EA3 /* stratocaster.usdz in Resources */,
+				A851748821C302B900D93EA3 /* redchair.usdz in Resources */,
+				A851749821C340D600D93EA3 /* SceneKit Scene.scn in Resources */,
+				A851749021C3364B00D93EA3 /* iphone7.usdz in Resources */,
 				A851747021C3017D00D93EA3 /* Main.storyboard in Resources */,
+				A851748421C302B900D93EA3 /* wateringcan.usdz in Resources */,
+				A851748521C302B900D93EA3 /* teapot.usdz in Resources */,
+				A851748721C302B900D93EA3 /* cupandsaucer.usdz in Resources */,
+				A851749621C3384C00D93EA3 /* trowel.usdz in Resources */,
+				A851748921C302B900D93EA3 /* tulip.usdz in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -136,6 +199,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A851746D21C3017D00D93EA3 /* ViewController.swift in Sources */,
+				A851748C21C3117600D93EA3 /* cellClass.swift in Sources */,
 				A851746B21C3017D00D93EA3 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
