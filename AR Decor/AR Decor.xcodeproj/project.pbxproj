@@ -26,6 +26,7 @@
 		A851749521C3384C00D93EA3 /* stratocaster.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A851749221C3384B00D93EA3 /* stratocaster.usdz */; };
 		A851749621C3384C00D93EA3 /* trowel.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A851749321C3384C00D93EA3 /* trowel.usdz */; };
 		A851749821C340D600D93EA3 /* SceneKit Scene.scn in Resources */ = {isa = PBXBuildFile; fileRef = A851749721C340D600D93EA3 /* SceneKit Scene.scn */; };
+		A85174A421C370FA00D93EA3 /* SceneKit Scene2.scn in Resources */ = {isa = PBXBuildFile; fileRef = A85174A321C370FA00D93EA3 /* SceneKit Scene2.scn */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -50,6 +51,7 @@
 		A851749221C3384B00D93EA3 /* stratocaster.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = stratocaster.usdz; sourceTree = "<group>"; };
 		A851749321C3384C00D93EA3 /* trowel.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = trowel.usdz; sourceTree = "<group>"; };
 		A851749721C340D600D93EA3 /* SceneKit Scene.scn */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; path = "SceneKit Scene.scn"; sourceTree = "<group>"; };
+		A85174A321C370FA00D93EA3 /* SceneKit Scene2.scn */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; path = "SceneKit Scene2.scn"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 		A851745E21C3017D00D93EA3 = {
 			isa = PBXGroup;
 			children = (
+				A85174A321C370FA00D93EA3 /* SceneKit Scene2.scn */,
 				A851746921C3017D00D93EA3 /* AR Decor */,
 				A851746821C3017D00D93EA3 /* Products */,
 			);
@@ -173,6 +176,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A851748E21C3338600D93EA3 /* wheelbarrow.usdz in Resources */,
+				A85174A421C370FA00D93EA3 /* SceneKit Scene2.scn in Resources */,
 				A851747521C3017E00D93EA3 /* LaunchScreen.storyboard in Resources */,
 				A851749421C3384C00D93EA3 /* retrotv.usdz in Resources */,
 				A851748621C302B900D93EA3 /* gramophone.usdz in Resources */,
