@@ -31,6 +31,8 @@ class ViewController: UIViewController {
         collectionVIew.delegate = self
         collectionVIew.reloadData()
     }
+    
+    
 
 
 }
