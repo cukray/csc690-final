@@ -13,4 +13,5 @@ class cellClass: UICollectionViewCell {
     @IBOutlet weak var modelTitle: UILabel!
     
     @IBOutlet weak var modelThumbnail: UIImageView!
+    
 }

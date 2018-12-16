@@ -11,9 +11,10 @@ import QuickLook
 
 class ViewController: UIViewController {
     
-    let models = ["wateringcan", "teapot", "gramophone", "cupandsaucer", "redchair", "tulip", "plantpot", "wheelbarrow", "iphone7", "retrotv", "stratocaster", "trowel"]
+    let models = ["wateringcan", "teapot", "gramophone", "cupandsaucer", "redchair", "tulip", "plantpot", "wheelbarrow", "retrotv", "stratocaster", "trowel", "iphone7", "toilet", "bathtub", "piano", "keyboard", "bedroom", "doublebed", "doublebed2", "singlebed", "singlebed2", "desk", "table", "yellowchair", "pinkcouch", "yellowcouch", "greencouch", "purplecouch"]
     
     @IBOutlet weak var collectionVIew: UICollectionView!
+    
     var thumbnails = [UIImage]()
     var thumbnailIndex = 0
 
@@ -32,9 +33,6 @@ class ViewController: UIViewController {
         collectionVIew.reloadData()
     }
     
-    
-
-
 }
 
 extension ViewController: UICollectionViewDelegate, UICollectionViewDataSource {

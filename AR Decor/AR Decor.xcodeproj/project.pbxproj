@@ -27,6 +27,22 @@
 		A851749621C3384C00D93EA3 /* trowel.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A851749321C3384C00D93EA3 /* trowel.usdz */; };
 		A851749821C340D600D93EA3 /* SceneKit Scene.scn in Resources */ = {isa = PBXBuildFile; fileRef = A851749721C340D600D93EA3 /* SceneKit Scene.scn */; };
 		A85174A421C370FA00D93EA3 /* SceneKit Scene2.scn in Resources */ = {isa = PBXBuildFile; fileRef = A85174A321C370FA00D93EA3 /* SceneKit Scene2.scn */; };
+		A8DAF79521C65507000F6C4D /* desk.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A8DAF78521C65505000F6C4D /* desk.usdz */; };
+		A8DAF79621C65507000F6C4D /* greencouch.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A8DAF78621C65505000F6C4D /* greencouch.usdz */; };
+		A8DAF79721C65507000F6C4D /* singlebed2.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A8DAF78721C65505000F6C4D /* singlebed2.usdz */; };
+		A8DAF79821C65507000F6C4D /* yellowchair.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A8DAF78821C65505000F6C4D /* yellowchair.usdz */; };
+		A8DAF79921C65507000F6C4D /* singlebed.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A8DAF78921C65505000F6C4D /* singlebed.usdz */; };
+		A8DAF79A21C65507000F6C4D /* toilet.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A8DAF78A21C65506000F6C4D /* toilet.usdz */; };
+		A8DAF79B21C65507000F6C4D /* piano.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A8DAF78B21C65506000F6C4D /* piano.usdz */; };
+		A8DAF79C21C65507000F6C4D /* yellowcouch.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A8DAF78C21C65506000F6C4D /* yellowcouch.usdz */; };
+		A8DAF79D21C65507000F6C4D /* purplecouch.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A8DAF78D21C65506000F6C4D /* purplecouch.usdz */; };
+		A8DAF79E21C65507000F6C4D /* doublebed2.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A8DAF78E21C65506000F6C4D /* doublebed2.usdz */; };
+		A8DAF79F21C65507000F6C4D /* keyboard.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A8DAF78F21C65506000F6C4D /* keyboard.usdz */; };
+		A8DAF7A021C65507000F6C4D /* bathtub.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A8DAF79021C65506000F6C4D /* bathtub.usdz */; };
+		A8DAF7A121C65507000F6C4D /* bedroom.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A8DAF79121C65506000F6C4D /* bedroom.usdz */; };
+		A8DAF7A221C65507000F6C4D /* table.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A8DAF79221C65507000F6C4D /* table.usdz */; };
+		A8DAF7A321C65507000F6C4D /* pinkcouch.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A8DAF79321C65507000F6C4D /* pinkcouch.usdz */; };
+		A8DAF7A421C65507000F6C4D /* doublebed.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A8DAF79421C65507000F6C4D /* doublebed.usdz */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -52,6 +68,22 @@
 		A851749321C3384C00D93EA3 /* trowel.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = trowel.usdz; sourceTree = "<group>"; };
 		A851749721C340D600D93EA3 /* SceneKit Scene.scn */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; path = "SceneKit Scene.scn"; sourceTree = "<group>"; };
 		A85174A321C370FA00D93EA3 /* SceneKit Scene2.scn */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; path = "SceneKit Scene2.scn"; sourceTree = "<group>"; };
+		A8DAF78521C65505000F6C4D /* desk.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = desk.usdz; sourceTree = "<group>"; };
+		A8DAF78621C65505000F6C4D /* greencouch.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = greencouch.usdz; sourceTree = "<group>"; };
+		A8DAF78721C65505000F6C4D /* singlebed2.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = singlebed2.usdz; sourceTree = "<group>"; };
+		A8DAF78821C65505000F6C4D /* yellowchair.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = yellowchair.usdz; sourceTree = "<group>"; };
+		A8DAF78921C65505000F6C4D /* singlebed.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = singlebed.usdz; sourceTree = "<group>"; };
+		A8DAF78A21C65506000F6C4D /* toilet.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = toilet.usdz; sourceTree = "<group>"; };
+		A8DAF78B21C65506000F6C4D /* piano.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = piano.usdz; sourceTree = "<group>"; };
+		A8DAF78C21C65506000F6C4D /* yellowcouch.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = yellowcouch.usdz; sourceTree = "<group>"; };
+		A8DAF78D21C65506000F6C4D /* purplecouch.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = purplecouch.usdz; sourceTree = "<group>"; };
+		A8DAF78E21C65506000F6C4D /* doublebed2.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = doublebed2.usdz; sourceTree = "<group>"; };
+		A8DAF78F21C65506000F6C4D /* keyboard.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = keyboard.usdz; sourceTree = "<group>"; };
+		A8DAF79021C65506000F6C4D /* bathtub.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = bathtub.usdz; sourceTree = "<group>"; };
+		A8DAF79121C65506000F6C4D /* bedroom.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = bedroom.usdz; sourceTree = "<group>"; };
+		A8DAF79221C65507000F6C4D /* table.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = table.usdz; sourceTree = "<group>"; };
+		A8DAF79321C65507000F6C4D /* pinkcouch.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = pinkcouch.usdz; sourceTree = "<group>"; };
+		A8DAF79421C65507000F6C4D /* doublebed.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = doublebed.usdz; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +145,22 @@
 				A851749121C3384B00D93EA3 /* retrotv.usdz */,
 				A851749221C3384B00D93EA3 /* stratocaster.usdz */,
 				A851749321C3384C00D93EA3 /* trowel.usdz */,
+				A8DAF79021C65506000F6C4D /* bathtub.usdz */,
+				A8DAF79121C65506000F6C4D /* bedroom.usdz */,
+				A8DAF78521C65505000F6C4D /* desk.usdz */,
+				A8DAF79421C65507000F6C4D /* doublebed.usdz */,
+				A8DAF78E21C65506000F6C4D /* doublebed2.usdz */,
+				A8DAF78621C65505000F6C4D /* greencouch.usdz */,
+				A8DAF78F21C65506000F6C4D /* keyboard.usdz */,
+				A8DAF78B21C65506000F6C4D /* piano.usdz */,
+				A8DAF79321C65507000F6C4D /* pinkcouch.usdz */,
+				A8DAF78D21C65506000F6C4D /* purplecouch.usdz */,
+				A8DAF78921C65505000F6C4D /* singlebed.usdz */,
+				A8DAF78721C65505000F6C4D /* singlebed2.usdz */,
+				A8DAF79221C65507000F6C4D /* table.usdz */,
+				A8DAF78A21C65506000F6C4D /* toilet.usdz */,
+				A8DAF78821C65505000F6C4D /* yellowchair.usdz */,
+				A8DAF78C21C65506000F6C4D /* yellowcouch.usdz */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -175,22 +223,38 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A8DAF79C21C65507000F6C4D /* yellowcouch.usdz in Resources */,
 				A851748E21C3338600D93EA3 /* wheelbarrow.usdz in Resources */,
+				A8DAF7A421C65507000F6C4D /* doublebed.usdz in Resources */,
 				A85174A421C370FA00D93EA3 /* SceneKit Scene2.scn in Resources */,
 				A851747521C3017E00D93EA3 /* LaunchScreen.storyboard in Resources */,
+				A8DAF79821C65507000F6C4D /* yellowchair.usdz in Resources */,
 				A851749421C3384C00D93EA3 /* retrotv.usdz in Resources */,
+				A8DAF7A321C65507000F6C4D /* pinkcouch.usdz in Resources */,
 				A851748621C302B900D93EA3 /* gramophone.usdz in Resources */,
 				A851747221C3017E00D93EA3 /* Assets.xcassets in Resources */,
 				A851748A21C302B900D93EA3 /* plantpot.usdz in Resources */,
 				A851749521C3384C00D93EA3 /* stratocaster.usdz in Resources */,
+				A8DAF79F21C65507000F6C4D /* keyboard.usdz in Resources */,
 				A851748821C302B900D93EA3 /* redchair.usdz in Resources */,
 				A851749821C340D600D93EA3 /* SceneKit Scene.scn in Resources */,
 				A851749021C3364B00D93EA3 /* iphone7.usdz in Resources */,
 				A851747021C3017D00D93EA3 /* Main.storyboard in Resources */,
 				A851748421C302B900D93EA3 /* wateringcan.usdz in Resources */,
+				A8DAF7A221C65507000F6C4D /* table.usdz in Resources */,
 				A851748521C302B900D93EA3 /* teapot.usdz in Resources */,
+				A8DAF79E21C65507000F6C4D /* doublebed2.usdz in Resources */,
 				A851748721C302B900D93EA3 /* cupandsaucer.usdz in Resources */,
+				A8DAF79621C65507000F6C4D /* greencouch.usdz in Resources */,
+				A8DAF7A021C65507000F6C4D /* bathtub.usdz in Resources */,
+				A8DAF79D21C65507000F6C4D /* purplecouch.usdz in Resources */,
 				A851749621C3384C00D93EA3 /* trowel.usdz in Resources */,
+				A8DAF79521C65507000F6C4D /* desk.usdz in Resources */,
+				A8DAF7A121C65507000F6C4D /* bedroom.usdz in Resources */,
+				A8DAF79921C65507000F6C4D /* singlebed.usdz in Resources */,
+				A8DAF79A21C65507000F6C4D /* toilet.usdz in Resources */,
+				A8DAF79B21C65507000F6C4D /* piano.usdz in Resources */,
+				A8DAF79721C65507000F6C4D /* singlebed2.usdz in Resources */,
 				A851748921C302B900D93EA3 /* tulip.usdz in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
